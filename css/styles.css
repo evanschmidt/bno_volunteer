@@ -1767,7 +1767,12 @@ tr.selected td {
  */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\000038}}
 body {
-  background: #CCC;
+  background: none repeat scroll 0 0 #cccccc;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000311}}
+#page {
+  background: none repeat scroll 0 0 white;
 }
 
 /* @import "theme-B"; */

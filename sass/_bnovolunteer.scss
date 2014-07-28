@@ -17,11 +17,18 @@
 #main-menu {
   ul {
 	li {
+		background: none repeat scroll 0 0 $blue;
 	  a {
 	  	color: $red;
+	  	display: block;
 	  	text-decoration: none;
 	  }
-
+	  a:hover {
+	  	color: $blue;
+	  }
 	}
+	li:hover {
+		background: none repeat scroll 0 0 $red;
+	}	
   }
 }

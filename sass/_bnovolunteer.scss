@@ -16,6 +16,7 @@
 }
 #main-menu {
   ul {
+	background: none repeat scroll 0 0 $white;
 	li {
 		padding: 0px!important;
 	  a {
@@ -30,7 +31,7 @@
 	  }
 	}
 	li:hover {
-		background: none repeat scroll 0 0 $white;
+	  background: none repeat scroll 0 0 $biege;
 	}	
   }
 }

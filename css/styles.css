@@ -1803,6 +1803,7 @@ body {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000342}}
 input:focus {
   background: none repeat scroll 0 0 #d2d0bf;
+  color: #87310e;
 }
 
 /* @import "theme-B"; */

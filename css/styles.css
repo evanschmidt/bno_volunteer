@@ -1784,7 +1784,7 @@ body {
 #main-menu ul li a {
   color: #87310e;
   display: block;
-  padding: 10px;
+  padding: 10px 11px 10px 10.5px;
   text-decoration: none;
   text-transform: uppercase;
 }

@@ -1776,4 +1776,10 @@ body {
   color: #87310e;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000320}}
+#main-menu ul li a {
+  color: #87310e;
+  text-decoration: none;
+}
+
 /* @import "theme-B"; */

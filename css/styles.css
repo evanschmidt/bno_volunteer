@@ -1767,7 +1767,7 @@ tr.selected td {
  */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\000038}}
 body {
-  background: url("../images/battleBG.gif") no-repeat fixed top center #d2d0bf;
+  background: url("../images/battleBG.jpg") no-repeat fixed top center #d2d0bf;
   color: #253d4f;
 }
 

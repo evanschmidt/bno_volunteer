@@ -1779,7 +1779,7 @@ body {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000319}}
 #main-menu ul li {
   border: 1px solid #253d4f;
-  padding: 10px;
+  padding: 10px !important;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000322}}
 #main-menu ul li a {

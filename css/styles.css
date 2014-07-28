@@ -1776,10 +1776,6 @@ body {
   color: #87310e;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000319}}
-#main-menu ul li {
-  background: none repeat scroll 0 0 #253d4f;
-}
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000321}}
 #main-menu ul li a {
   color: #87310e;
@@ -1789,10 +1785,6 @@ body {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000326}}
 #main-menu ul li a:hover {
   color: #253d4f;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000330}}
-#main-menu ul li:hover {
-  background: none repeat scroll 0 0 #87310e;
 }
 
 /* @import "theme-B"; */

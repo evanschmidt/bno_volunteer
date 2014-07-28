@@ -1765,4 +1765,9 @@ tr.selected td {
  * Adds styles for BNO Volunteer
  *
  */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\000038}}
+body {
+  background: #CCC;
+}
+
 /* @import "theme-B"; */

@@ -7,6 +7,10 @@
  */
  body {
  	background: none repeat scroll 0 0 $biege;
+ 	color: $blue;
  }
  #page {
  }
+.form-required {
+	color: $red;
+}

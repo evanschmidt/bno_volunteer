@@ -1791,5 +1791,9 @@ body {
 #main-menu ul li a:hover {
   color: #253d4f;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000331}}
+#main-menu ul li:hover {
+  background: none repeat scroll 0 0 white;
+}
 
 /* @import "theme-B"; */

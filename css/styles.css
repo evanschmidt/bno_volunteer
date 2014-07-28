@@ -1767,7 +1767,7 @@ tr.selected td {
  */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\000038}}
 body {
-  background: none repeat scroll 0 0 #d2d0bf;
+  background: url("../images/3808.jpg") repeat scroll 0 0 #d2d0bf;
   color: #253d4f;
 }
 
@@ -1801,6 +1801,11 @@ body {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000342}}
+input {
+  color: #253d4f;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000345}}
 input:focus {
   background: none repeat scroll 0 0 #d2d0bf;
   color: #87310e;

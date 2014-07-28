@@ -6,7 +6,7 @@
  *
  */
  body {
-   background: none repeat scroll 0 0 $biege;
+   background: url("../images/3808.jpg") repeat scroll 0 0 $biege;
    color: $blue;
  }
  #page {
@@ -38,6 +38,9 @@
 	li:hover {
 	}	
   }
+}
+input {
+    color: $blue;
 }
 input:focus {
     background: none repeat scroll 0 0 $biege;

@@ -1776,16 +1776,13 @@ body {
   color: #87310e;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000318}}
-#main-menu ul {
-  background: none repeat scroll 0 0 white;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000319}}
 #main-menu ul li {
   padding: 0px !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000321}}
 #main-menu ul li a {
+  background: none repeat scroll 0 0 white;
   color: #87310e;
   display: block;
   padding: 0.68em;
@@ -1794,11 +1791,8 @@ body {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000329}}
 #main-menu ul li a:hover {
-  color: #253d4f;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000333}}
-#main-menu ul li:hover {
   background: none repeat scroll 0 0 #d2d0bf;
+  color: #253d4f;
 }
 
 /* @import "theme-B"; */

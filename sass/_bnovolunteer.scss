@@ -16,10 +16,10 @@
 }
 #main-menu {
   ul {
-	background: none repeat scroll 0 0 $white;
 	li {
 		padding: 0px!important;
 	  a {
+		background: none repeat scroll 0 0 $white;
 	  	color: $red;
 	  	display: block;
 	  	padding: 0.68em;
@@ -27,11 +27,11 @@
 	  	text-transform: uppercase;
 	  }
 	  a:hover {
+		background: none repeat scroll 0 0 $biege;
 	  	color: $blue;
 	  }
 	}
 	li:hover {
-	  background: none repeat scroll 0 0 $biege;
 	}	
   }
 }

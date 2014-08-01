@@ -158,6 +158,10 @@ $zen-auto-include-item-base: false;
 
   $zen-column-count: 5;
 
+  #content {
+    @include zen-grid-item(3, 2);
+  }
+
   /**
    * The layout when there is only one sidebar, the left one.
    */

@@ -18,6 +18,9 @@
 .header__region {
   clear: none;
 }
+#header {
+	@include zen-grid-background();
+}
 #block-system-main-menu {
   ul {
 	li {

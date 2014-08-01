@@ -26,9 +26,9 @@
 	li {
 		padding: 0px!important;
 		float: left;
+		list-style: none outside none;
 	  a {
-		background: none repeat scroll 0 0 $white;
-	  	color: $red;
+	  	color: $white;
 	  	display: block;
 	  	padding: 0.68em;
 	  	text-decoration: none;
@@ -44,7 +44,13 @@
 	  }
 	}
 	li:hover {
-	}	
+	}
+	li:nth-child(1) {
+	  background: none repeat scroll 0 0 $blue;
+	}
+	li:nth-child(2) {
+	  background: none repeat scroll 0 0 $red;
+	}
   }
 }
 input {

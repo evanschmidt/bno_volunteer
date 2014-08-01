@@ -1797,11 +1797,11 @@ body {
 #block-system-main-menu ul li {
   padding: 0px !important;
   float: left;
+  list-style: none outside none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000330}}
 #block-system-main-menu ul li a {
-  background: none repeat scroll 0 0 white;
-  color: #87310e;
+  color: white;
   display: block;
   padding: 0.68em;
   text-decoration: none;
@@ -1817,13 +1817,21 @@ body {
   background: none repeat scroll 0 0 #d2d0bf;
   color: #253d4f;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000348}}
+#block-system-main-menu ul li:nth-child(1) {
+  background: none repeat scroll 0 0 #253d4f;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000351}}
+#block-system-main-menu ul li:nth-child(2) {
+  background: none repeat scroll 0 0 #87310e;
+}
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000356}}
 input {
   color: #253d4f;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000359}}
 input:focus {
   background: none repeat scroll 0 0 #d2d0bf;
   color: #87310e;

@@ -6,7 +6,8 @@
  *
  */
  body {
-   background: url("../images/battleBG.jpg") no-repeat fixed top center $biege;
+	@include zen-grid-background();
+   //background: url("../images/battleBG.jpg") no-repeat fixed top center $biege;
    color: $blue;
  }
  #page {
@@ -19,7 +20,6 @@
   clear: none;
 }
 #header {
-	//@include zen-grid-background();
 }
 h1 {
   color: $red;

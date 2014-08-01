@@ -33,6 +33,7 @@ h1 {
 		padding: 0px!important;
 		float: left;
 		list-style: none outside none;
+		margin-left: 0.1em;
 	  a {
 	  	color: $white;
 	  	display: block;
@@ -60,7 +61,7 @@ h1 {
 	li:nth-child(2) {
 	  background: none repeat scroll 0 0 $red;
 	  a {
-	  	padding: 128px 90px;
+	  	padding: 128px 89px;
 	  }
 	}
   }

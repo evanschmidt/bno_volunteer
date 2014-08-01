@@ -37,9 +37,10 @@ h1 {
 	  a {
 	  	color: $white;
 	  	display: block;
-	  	padding: 0.68em;
+	  	text-align: center;
 	  	text-decoration: none;
 	  	text-transform: uppercase;
+	  	width: 280px;
 	  }
 	  a:hover {
 		background: none repeat scroll 0 0 $biege;
@@ -55,13 +56,13 @@ h1 {
 	li:nth-child(1) {
 	  background: none repeat scroll 0 0 $blue;
 	  a {
-	  	padding: 128px 46px;
+	  	padding: 128px 0;
 	  }
 	}
 	li:nth-child(2) {
 	  background: none repeat scroll 0 0 $red;
 	  a {
-	  	padding: 128px 89px;
+	  	padding: 128px 0;
 	  }
 	}
   }

@@ -1812,10 +1812,6 @@ body {
   background: none repeat scroll 0 0 #d2d0bf;
   color: #253d4f;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000341}}
-#block-system-main-menu ul li a.active-trail {
-  color: #253d4f;
-}
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000348}}
 #block-system-main-menu ul li:nth-child(1) {
   background: none repeat scroll 0 0 #253d4f;

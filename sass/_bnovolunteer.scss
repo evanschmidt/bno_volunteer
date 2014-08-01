@@ -15,7 +15,10 @@
 .form-required {
   color: $red;
 }
-#main-menu {
+.header__region {
+  clear: none;
+}
+#block-system-main-menu {
   ul {
 	li {
 		padding: 0px!important;

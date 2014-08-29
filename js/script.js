@@ -13,14 +13,12 @@
 (function ($, Drupal, window, document, undefined) {
 
 
-// To understand behaviors, see https://drupal.org/node/756722#behaviors
-Drupal.behaviors.my_custom_behavior = {
-  attach: function(context, settings) {
-
-    // Place your code here.
-
-  }
-};
-
+	Drupal.behaviors.bno_volunteer = {
+    attach: function (context, settings) {
+        $.backstretch([
+            "sites/all/themes/bno_volunteer/images/battleofneworleans-bg4.jpg"
+        ], {speed: 500});
+	}
+  };
 
 })(jQuery, Drupal, this, this.document);

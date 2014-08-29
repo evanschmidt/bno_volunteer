@@ -160,6 +160,7 @@ $zen-auto-include-item-base: false;
 
   #header {
     @include zen-grid-item(8, 1);
+    @include zen-clear();
   }
 
 

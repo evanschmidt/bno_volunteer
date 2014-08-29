@@ -7,7 +7,7 @@
  */
  body {
    //@include zen-grid-background();
-   background: url("../images/battleofneworleans-bg.jpg") no-repeat fixed top center $biege;
+   background: url("../images/battleofneworleans-bg.jpg") no-repeat fixed top left $biege;
    color: $blue;
  }
  #page {
@@ -35,7 +35,7 @@ h1 {
 		list-style: none outside none;
 		margin-left: 0.1em;
 	  a {
-	  	color: $white;
+	  	color: $biege;
 	  	display: block;
 	  	text-align: center;
 	  	text-decoration: none;
@@ -44,7 +44,7 @@ h1 {
 	  }
 	  a:hover {
 		//background: none repeat scroll 0 0 $biege;
-	  	color: $black;
+	  	color: $white;
 	  }
 	  a.active-trail {
 		//background: none repeat scroll 0 0 $biege;

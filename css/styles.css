@@ -1775,7 +1775,7 @@ tr.selected td {
  */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\000038}}
 body {
-  background: url("../images/battleofneworleans-bg.jpg") no-repeat fixed top center #d2d0bf;
+  background: url("../images/battleofneworleans-bg.jpg") no-repeat fixed top left #d2d0bf;
   color: #253d4f;
 }
 
@@ -1812,7 +1812,7 @@ h1 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000337}}
 #block-system-main-menu ul li a {
-  color: white;
+  color: #d2d0bf;
   display: block;
   text-align: center;
   text-decoration: none;
@@ -1821,7 +1821,7 @@ h1 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000345}}
 #block-system-main-menu ul li a:hover {
-  color: black;
+  color: white;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000356}}
 #block-system-main-menu ul li:nth-child(1) {

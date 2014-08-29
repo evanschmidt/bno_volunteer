@@ -18,7 +18,7 @@
         $.backstretch([
             "/sites/all/themes/bno_volunteer/images/battleofneworleans-bg.jpg",
             "/sites/all/themes/bno_volunteer/images/battleofneworleans-bg5.jpg"
-        ], {speed: 300, centeredY: false});
+        ], {speed: 300, fade:300, centeredX: false, centeredY: false});
 	}
   };
 

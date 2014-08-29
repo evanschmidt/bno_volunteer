@@ -119,7 +119,7 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 2 */
-  line-height: 1.2em;
+  line-height: 1.5em;
 }
 
 /* Remove default margin. */
@@ -161,13 +161,13 @@ a:hover {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_normalize\.scss}line{font-family:\00003169}}
 p,
 pre {
-  margin: 1.2em 0;
+  margin: 1.5em 0;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_normalize\.scss}line{font-family:\00003173}}
 blockquote {
   /* Also indent the quote on both sides. */
-  margin: 1.2em 30px;
+  margin: 1.5em 30px;
 }
 
 /**
@@ -178,51 +178,51 @@ blockquote {
 h1 {
   /* Set the font-size and line-height while keeping a proper vertical rhythm. */
   font-size: 2.4em;
-  line-height: 1.5em;
+  line-height: 1.25em;
   /* Set 1 unit of vertical rhythm on the top and bottom margins. */
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  margin-top: 0.625em;
+  margin-bottom: 0.625em;
   font-weight: normal;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_normalize\.scss}line{font-family:\00003191}}
 h2 {
   font-size: 1.5em;
-  line-height: 1.6em;
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;
+  line-height: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_normalize\.scss}line{font-family:\00003196}}
 h3 {
   font-size: 1.17em;
-  line-height: 2.05128em;
-  margin-top: 1.02564em;
-  margin-bottom: 1.02564em;
+  line-height: 1.28205em;
+  margin-top: 1.28205em;
+  margin-bottom: 1.28205em;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_normalize\.scss}line{font-family:\00003201}}
 h4 {
   font-size: 1em;
-  line-height: 1.2em;
-  margin-top: 1.2em;
-  margin-bottom: 1.2em;
+  line-height: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_normalize\.scss}line{font-family:\00003206}}
 h5 {
   font-size: 0.83em;
-  line-height: 1.44578em;
-  margin-top: 1.44578em;
-  margin-bottom: 1.44578em;
+  line-height: 1.80723em;
+  margin-top: 1.80723em;
+  margin-bottom: 1.80723em;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_normalize\.scss}line{font-family:\00003211}}
 h6 {
   font-size: 0.67em;
-  line-height: 1.79104em;
-  margin-top: 1.79104em;
-  margin-bottom: 1.79104em;
+  line-height: 2.23881em;
+  margin-top: 2.23881em;
+  margin-bottom: 2.23881em;
 }
 
 /* Address styling not present in IE 8/9, Safari 5, and Chrome. */
@@ -253,7 +253,7 @@ hr {
   height: 0;
   border: 1px solid #666;
   padding-bottom: -1px;
-  margin: 1.2em 0;
+  margin: 1.5em 0;
 }
 
 /* Address styling not present in IE 8/9. */
@@ -273,7 +273,7 @@ tt,
 var {
   font-family: "Courier New", "DejaVu Sans Mono", monospace, sans-serif;
   font-size: 1em;
-  line-height: 1.2em;
+  line-height: 1.5em;
 }
 
 /* Improve readability of pre-formatted text in all browsers. */
@@ -323,7 +323,7 @@ menu,
 ol,
 ul {
   /* Address margins set differently in IE 6/7. */
-  margin: 1.2em 0;
+  margin: 1.5em 0;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_normalize\.scss}line{font-family:\00003311}}
@@ -389,16 +389,16 @@ fieldset {
   border-color: #c0c0c0;
   border-top-width: 0.05em;
   border-top-style: solid;
-  padding-top: 0.37em;
+  padding-top: 0.475em;
   border-bottom-width: 0.05em;
   border-bottom-style: solid;
-  padding-bottom: 0.73em;
+  padding-bottom: 0.925em;
   border-left-width: 0.05em;
   border-left-style: solid;
-  padding-left: 0.73em;
+  padding-left: 0.925em;
   border-right-width: 0.05em;
   border-right-style: solid;
-  padding-right: 0.73em;
+  padding-right: 0.925em;
 }
 
 /**
@@ -571,8 +571,8 @@ table {
   /* Prevent cramped-looking tables */
   /* width: 100%; */
   /* Add vertical rhythm margins. */
-  margin-top: 1.2em;
-  margin-bottom: 1.2em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 /* Layout rules */
@@ -957,7 +957,7 @@ table {
 .header__site-name {
   margin: 0;
   font-size: 2.4em;
-  line-height: 1.5em;
+  line-height: 1.25em;
 }
 
 /* The link around the name of the website. */
@@ -1055,7 +1055,7 @@ table {
  */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/components\/_misc\.scss}line{font-family:\00003197}}
 .messages, .messages--status, .messages--warning, .messages--error {
-  margin: 1.2em 0;
+  margin: 1.5em 0;
   padding: 10px 10px 10px 50px;
   background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAD6UlEQVR42s2WX0xbVRzH3YwmC4k+GF/0ZS/S267/bmnX9nL7bwstZlnbjTDYyoC5GCbB0ZW5pdJCe6swbLFA6bpWIGuRMWVjKGP+21QW3SZBSAjGh4XEaTZTH82Cm/3ztS2xs7mw4KLRk3xyzj33/H6fe5Pz7zEA/yr/vUDukj9FH6drqTaqT8EoPs/UV+nX6TD1BlUh9AqLHlmgPKLcRHmoCOWmElK/FOKTYpS8UwLJkASiUyLI3pKhlClN0g46qj+qL/pbArlbrlO1q25JeiSgR2iYJ8ywXLSg/qP6LNl2ro8+Q4MMkKCd9K2t3q3KdQnkXXIF5aISkgEJzONm1F2qW52pDJN1MI2bUBIuAdVOJWSMTPNQgX6/vkjVpvpREpag6oMqWCYta1IzbsHh9ga0RJtzY8URMdRO9U/KSuWmNQUqh2pY3CtG+fvlqJyofMAFNrZAE+7e/RWR4X4cD9tgOGsA2U2CdtMDqwqyMyIzQ5KKqAKmcyaYxkzYd3YvjGNGFtXRPRj58DT+LOemRrFnrBLyITmUDmUyO/NYgu2d26ukHVJo3tXAMGpAs+cQmh0NeClan30uwN7TgnQ6nRd4r3thOGOAJqYB2UVC79AfZAnKHGUxQa8A2tNaNLW/jKvXv8Dyb8s4yryKA4O10A3roIvpUB+swTdz1/LJZ27PQBvT5lBH1RD4BChzlQ2wBNtc22aE/ULQgzRCl4P5BPcT93GMOYz9wb2QhCRgAq35d8u/L2PXe7tADVGgBlcQ+AXQtmlvsP/gzbJZvp8PMkJCFBYh8m0knyiVSsHe0YIGZz1+/uVOvt8z7QGvnwf+ST5EIRHIUyR4fh50rbp5lsDcYR4ReAXgBrng9q/Qfa0bfy035r7Ot2dvz4IX4IEIEAXwvDzscOw4zxJUd1YfEXlE4Aa4BQHMlwzSSBeI7iXvoTxWDqKPYCFsFaKmr+YVliB0JfS89DVpiuhlB9k/tSOZTuYFvq98yI7L0/MAsVWcGp0bfW61hbahwltxSeARsIKyWKesSKQSWIwvYkvvllwfx88pgOvhwthu/AzAxlVX8vz385tLbaVxwpcLZtEw0QDjsBGctzksiE4CimZFfHp++oWHbnbuUfdB0komMgHsRN1r0MWBsEmYODF5onY92/UTwcvBxuzXcN1ccHycVSn2FaPYWwzCQUDWKIt7z3utAJ5c74Hz+OLSomynY+cVfiM/xW3JiDyZpB3FuZrj4oCwE+Ad4qWMjPHjpTtL0mzMoxyZz9yM39Q7Y85Ok930icqm+k59TL2wm9l90dZv8y/8sPAigGf/iUN/Q4anM2zOsdLe+L+4VfwBVVjDs2rTYx0AAAAASUVORK5CYII=');
   background-position: 8px 8px;
@@ -1127,7 +1127,7 @@ table {
   /* IE 9 and earlier don't understand gradients. */
   list-style: none;
   border-bottom: 1px solid #bbbbbb \0/ie;
-  margin: 1.2em 0;
+  margin: 1.5em 0;
   padding: 0 2px;
   white-space: nowrap;
 }
@@ -1145,7 +1145,7 @@ a.tabs-primary__tab-link, a.tabs-primary__tab-link.is-active, a.tabs-secondary__
   border-right: 0;
   border-bottom: 0;
   display: block;
-  line-height: 1.2em;
+  line-height: 1.5em;
   text-decoration: none;
 }
 
@@ -1211,13 +1211,13 @@ a.tabs-primary__tab-link:active, a.tabs-primary__tab-link.is-active {
 .tabs-secondary {
   font-size: .9em;
   /* Collapse bottom margin of ul.primary. */
-  margin-top: -1.2em;
+  margin-top: -1.5em;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/components\/_misc\.scss}line{font-family:\00003351}}
 .tabs-secondary__tab,
 .tabs-secondary__tab.is-active {
-  margin: 0.6em 3px;
+  margin: 0.75em 3px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/components\/_misc\.scss}line{font-family:\00003358}}
@@ -1339,7 +1339,7 @@ span.field-label {
 /* Block wrapper. */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/components\/_misc\.scss}line{font-family:\00003472}}
 .block {
-  margin-bottom: 1.2em;
+  margin-bottom: 1.5em;
 }
 
 /**
@@ -1408,7 +1408,7 @@ span.field-label {
 /* Wrapper for the list of comments and its title. */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/components\/_misc\.scss}line{font-family:\00003551}}
 .comments {
-  margin: 1.2em 0;
+  margin: 1.5em 0;
 }
 
 /* Preview of the comment before submitting new or updated comment. */
@@ -1442,7 +1442,7 @@ span.field-label {
 /* Wrapper for a form element (or group of form elements) and its label. */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/components\/_misc\.scss}line{font-family:\00003582}}
 .form-item {
-  margin: 1.2em 0;
+  margin: 1.5em 0;
   /* Pack groups of checkboxes and radio buttons closer together. */
   /* Form items in a table. */
   /* Highlight the form elements that caused a form submission error. */
@@ -1524,7 +1524,7 @@ a.button {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/components\/_misc\.scss}line{font-family:\00003659}}
 .openid-link,
 .user-link {
-  margin-top: 1.2em;
+  margin-top: 1.5em;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/components\/_misc\.scss}line{font-family:\00003663}}
@@ -1536,7 +1536,7 @@ html.js #user-login-form li.openid-link,
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/components\/_misc\.scss}line{font-family:\00003668}}
 #user-login ul {
-  margin: 1.2em 0;
+  margin: 1.5em 0;
 }
 
 /**

@@ -156,7 +156,7 @@ $zen-auto-include-item-base: false;
  */
 @media all and (min-width: 960px) {
 
-  $zen-column-count: 5;
+  $zen-column-count: 12;
 
   #content {
     @include zen-grid-item(4, 2);

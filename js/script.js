@@ -17,8 +17,7 @@
     attach: function (context, settings) {
         $.backstretch([
             "sites/all/themes/bno_volunteer/images/battleofneworleans-bg3.jpg"
-            "sites/all/themes/bno_volunteer/images/battleofneworleans-bg4.jpg"
-        ], {speed: 500, centeredY: false});
+            "sites/all/themes/bno_volunteer/images/battleofneworleans-bg4.jpg"], {speed: 500, centeredY: false});
 	}
   };
 

@@ -8,7 +8,7 @@
  body {
    //@include zen-grid-background();
    background: url("../images/battleofneworleans-bg2.jpg") no-repeat fixed top left $biege;
-   color: $blue;
+   color: $body;
  }
  #page {
    //background: none repeat scroll 0 0 rgba(210, 208, 191, 0.75);
@@ -23,7 +23,7 @@
 #header {
 }
 h1 {
-  color: $red;
+  color: $header;
 }
 #block-system-main-menu {
 	margin: 0;
@@ -36,8 +36,9 @@ h1 {
 		list-style: none outside none;
 		margin-left: 0.1em;
 	  a {
-	  	color: $biege;
+	  	color: $navlink;
 	  	display: block;
+	  	font-size: 1.875em;
 	  	text-align: center;
 	  	text-decoration: none;
 	  	text-transform: uppercase;

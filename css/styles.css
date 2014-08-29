@@ -1825,6 +1825,7 @@ h1 {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
+  width: 282px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000352}}
 #block-system-main-menu ul li a:hover {

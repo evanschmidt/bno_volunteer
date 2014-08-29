@@ -8,8 +8,6 @@
  */
 ?>
 
-<div id="page">
-
   <header class="header" id="header" role="banner">
 
     <?php if ($logo): ?>
@@ -49,6 +47,10 @@
     <?php print render($page['header']); ?>
 
   </header>
+
+
+<div id="page">
+
 
   <div id="main">
 

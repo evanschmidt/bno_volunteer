@@ -17,6 +17,7 @@
     attach: function (context, settings) {
         $.backstretch([
             "http://volunteer.chalmette2015.com/sites/all/themes/bno_volunteer/images/battleofneworleans-bg4.jpg"
+            "http://volunteer.chalmette2015.com/sites/all/themes/bno_volunteer/images/battleofneworleans-bg4.jpg"
         ], {speed: 500, centeredY: false});
 	}
   };

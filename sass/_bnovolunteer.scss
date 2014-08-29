@@ -7,11 +7,11 @@
  */
  body {
    //@include zen-grid-background();
-   background: url("../images/battleBG.jpg") no-repeat fixed top center $biege;
+   background: url("../images/battleofneworleans-bg.jpg") no-repeat fixed top center $biege;
    color: $blue;
  }
  #page {
-   background: none repeat scroll 0 0 rgba(210, 208, 191, 0.75);
+   //background: none repeat scroll 0 0 rgba(210, 208, 191, 0.75);
  }
 .form-required {
   color: $red;

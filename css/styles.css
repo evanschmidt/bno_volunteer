@@ -1848,12 +1848,13 @@ h1 {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000373}}
-input {
+input, textarea {
   color: #253d4f;
+  background: none repeat scroll 0 0 #d2d0bf;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000376}}
-input:focus {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/StBernardTourism\/volunteer\/sites\/all\/themes\/bno_volunteer\/sass\/_bnovolunteer\.scss}line{font-family:\0000377}}
+input:focus, textarea:focus {
   background: none repeat scroll 0 0 #d2d0bf;
   color: #87310e;
 }

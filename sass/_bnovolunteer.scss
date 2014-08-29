@@ -70,10 +70,11 @@ h1 {
 	}
   }
 }
-input {
+input, textarea {
     color: $blue;
+    background: none repeat scroll 0 0 $biege;
 }
-input:focus {
+input:focus, textarea:focus {
     background: none repeat scroll 0 0 $biege;
     color: $red;
 }

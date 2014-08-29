@@ -158,6 +158,11 @@ $zen-auto-include-item-base: false;
 
   $zen-column-count: 12;
 
+  #header {
+    @include zen-grid-item(8, 1);
+  }
+
+
   #content {
     @include zen-grid-item(7, 2);
   }

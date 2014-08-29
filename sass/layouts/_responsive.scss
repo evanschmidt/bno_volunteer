@@ -160,6 +160,7 @@ $zen-auto-include-item-base: false;
 
   #content {
     @include zen-grid-item(3, 2);
+    padding-left: 2.65em;
   }
 
   /**

@@ -17,7 +17,7 @@
     attach: function (context, settings) {
         $.backstretch([
             "sites/all/themes/bno_volunteer/images/battleofneworleans-bg4.jpg"
-        ], {speed: 500});
+        ], {speed: 500, centeredY: false});
 	}
   };
 

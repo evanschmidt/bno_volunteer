@@ -162,6 +162,7 @@ $zen-auto-include-item-base: false;
     @include zen-grid-item(12, 1);
     @include zen-nested-container();
     @include zen-clear();
+    @include zen-grid-background();
   }
 
 

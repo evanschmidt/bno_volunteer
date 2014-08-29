@@ -19,7 +19,7 @@
             "/sites/all/themes/bno_volunteer/images/battleofneworleans-bg1.1.jpg",
             "/sites/all/themes/bno_volunteer/images/battleofneworleans-bg1.2.jpg",
             "/sites/all/themes/bno_volunteer/images/battleofneworleans-bg1.3.jpg"
-        ], {speed: 500, fade: 50, centeredX: true, centeredY: false});
+        ], {speed: 3000, fade: 1000, centeredX: true, centeredY: false});
 	}
   };
 

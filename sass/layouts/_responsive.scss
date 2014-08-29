@@ -159,9 +159,7 @@ $zen-auto-include-item-base: false;
   $zen-column-count: 5;
 
   #content {
-    @include zen-grid-item(3, 2);
-    padding-left: 2.65em;
-    padding-right: 2.65em;
+    @include zen-grid-item(4, 2);
   }
 
   /**
